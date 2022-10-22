@@ -1,0 +1,141 @@
+   h1 {
+	   background: black;
+	   	color:red;
+	   	text-align: center;
+	   	font-size: 30;
+      padding-top: 20px;
+      padding-bottom: 20px
+		
+	 }
+
+
+   p {
+       background: rgb(100,200,40);
+       color: darkblue;
+       text-align: center;
+       font-size: 20px;
+       font-family: arial,times new romance;
+       font-weight: bold;
+      border-top:5px gold;
+     }
+
+   tr{
+       background: rgb(100,200,40);
+       color: yellow;
+       font-size: 20;
+   }
+
+  th{
+  	  background: rgb(100,200,40);
+  	  color: darkblue;
+  	  text-align: center;
+  	  font-size: 20;
+  }
+
+   h2{
+   	background: rgb(100,200,40);
+   	color: darkblue;
+   	text-align: center;
+   	font-size: 20px;
+   	font-family:arial;
+   }
+
+ td{
+    background: rgb(100,200,40);
+    color: darkblue;
+    text-align: center;
+    font-size: 20;
+  }
+
+  a{
+  	background: white;
+  	color: black solid;
+  	font-size: 20;
+    padding-top: 5px;
+    padding-bottom: 5px
+    margin:auto;
+
+  }
+
+  img{
+  	   background: black;
+  	   text-align: center;
+  	   font-size: 100pix;
+  }
+
+  form{
+  	    background: rgb(100,200,40);
+  	    color: darkblue;
+  	    padding: 8px;
+        text-align: center;
+  	    font-size: 30px;
+  }
+  label{
+    color: black;
+    padding: 15px;
+    background: none;
+  } 
+
+input{
+  background: white;
+  color: blue;
+}
+
+button{
+  background: black;
+  color: gold;
+  margin:auto;
+}
+
+ }
+    button:hover{
+      color: red;
+
+    }
+
+     }
+    input:hover{
+      color: red;
+
+    }
+
+
+    img{
+      background: rgba(100;200;20);
+      text-align: center;
+      color: darkblue;
+      font-size: 400px;
+      border: 50px red solid;
+      border-right: 20px
+      left-border:50px;
+    }
+    a:hover{
+      color: red;
+
+    }
+   .my-form{
+    padding: 20px;
+
+   }
+  .my-form label{
+    display: block;
+
+   }
+
+   .my-form input{
+    padding: 8px
+    width:100%;
+   }
+
+ .{
+  padding: 8px;
+  width: 100%;
+ }  
+
+.my-form input[type="submit"]{
+  background: #333;
+  color:#fff;
+  padding: 10px 15px;
+  border: none;
+}
+
